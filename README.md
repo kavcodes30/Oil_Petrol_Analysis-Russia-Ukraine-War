@@ -98,6 +98,21 @@ The scatter visualization examines how higher oil import dependency may correlat
 <img width="778" height="450" alt="image" src="https://github.com/user-attachments/assets/dd1e97d4-4421-498c-9e3c-27167995ef65" />
 </p>
 
+###Distribution of Brent Crude Oil Prices
+
+This distribution plot illustrates the frequency and spread of Brent crude oil prices, helping analyze market concentration and volatility patterns.
+
+<p align="center">
+<img width="742" height="450" alt="image" src="https://github.com/user-attachments/assets/c67a6dc3-4972-4043-bba2-acc7edfc2db4" />
+</p>
+
+###Oil Market Volatility Over Time
+
+The visualization tracks oil market volatility over time, showing periods of instability and sudden price fluctuations during conflict-driven uncertainty.
+
+<p align="center">
+<img width="742" height="450" alt="image" src="https://github.com/user-attachments/assets/c67a6dc3-4972-4043-bba2-acc7edfc2db4" />
+</p>
 ---
 ## Why This Project Matters
 
