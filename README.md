@@ -74,7 +74,7 @@ The graph illustrates the rise in petrol prices across countries after the confl
   <img width="890" height="513" alt="image" src="https://github.com/user-attachments/assets/051deb7b-f5a2-4338-8acb-3129376ea626" />
 </p>
 
-###Brent Crude Prices vs Global Events
+##Brent Crude Prices vs Global Events
 
 This graph connects major geopolitical events with fluctuations in Brent crude oil prices, helping visualize how international developments influenced energy markets.
 
@@ -82,7 +82,7 @@ This graph connects major geopolitical events with fluctuations in Brent crude o
 <img width="921" height="512" alt="image" src="https://github.com/user-attachments/assets/45a3dd61-a556-4297-a132-384e326246f1" />
 </p>
 
-###Inflation Risk Heatmap
+##Inflation Risk Heatmap
 
 The heatmap highlights inflation risk levels across different conditions and indicators, providing insight into the broader economic consequences of rising fuel prices.
 
@@ -90,7 +90,7 @@ The heatmap highlights inflation risk levels across different conditions and ind
 <img width="697" height="695" alt="image" src="https://github.com/user-attachments/assets/4eec9f35-e230-4504-acb0-ca3cc2a6b529" />
 </p>
 
-###Oil Dependency vs Inflation Risk
+##Oil Dependency vs Inflation Risk
 
 The scatter visualization examines how higher oil import dependency may correlate with increased inflation risk during periods of geopolitical instability.
 
@@ -98,7 +98,7 @@ The scatter visualization examines how higher oil import dependency may correlat
 <img width="778" height="450" alt="image" src="https://github.com/user-attachments/assets/dd1e97d4-4421-498c-9e3c-27167995ef65" />
 </p>
 
-###Distribution of Brent Crude Oil Prices
+##Distribution of Brent Crude Oil Prices
 
 This distribution plot illustrates the frequency and spread of Brent crude oil prices, helping analyze market concentration and volatility patterns.
 
@@ -106,7 +106,7 @@ This distribution plot illustrates the frequency and spread of Brent crude oil p
 <img width="742" height="450" alt="image" src="https://github.com/user-attachments/assets/c67a6dc3-4972-4043-bba2-acc7edfc2db4" />
 </p>
 
-###Oil Market Volatility Over Time
+##Oil Market Volatility Over Time
 
 The visualization tracks oil market volatility over time, showing periods of instability and sudden price fluctuations during conflict-driven uncertainty.
 
@@ -114,6 +114,7 @@ The visualization tracks oil market volatility over time, showing periods of ins
 <img width="742" height="450" alt="image" src="https://github.com/user-attachments/assets/c67a6dc3-4972-4043-bba2-acc7edfc2db4" />
 </p>
 ---
+
 ## Why This Project Matters
 
 Fuel prices directly influence transportation, inflation, manufacturing costs, and daily living expenses across the world.
