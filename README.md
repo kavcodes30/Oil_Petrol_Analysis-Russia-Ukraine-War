@@ -66,7 +66,7 @@ The notebook covers:
 
 ## Visual Insights
 
-###Petrol Prices Globally After Conflict
+##Petrol Prices Globally After Conflict
 
 The graph illustrates the rise in petrol prices across countries after the conflict began, reflecting supply chain disruptions and increased global market pressure.
 
