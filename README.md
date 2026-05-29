@@ -1,5 +1,4 @@
-# Oil-Petrol-Analysis---Russia-Ukraine-War
- Oil &amp; petrol market analysis during war periods using Python, Pandas, and data visualization.
+
 # Oil & Petrol Market Analysis During Global Conflict Periods
 
 ## The Story Behind This Project
@@ -67,12 +66,37 @@ The notebook covers:
 
 ## Visual Insights
 
-The project generates multiple visualizations including:
-- Oil price trend graphs
-- Country comparison charts
-- Distribution plots
-- Conflict impact visualizations
-- Economic fluctuation patterns
+###Petrol Prices Globally After Conflict
+
+The graph illustrates the rise in petrol prices across countries after the conflict began, reflecting supply chain disruptions and increased global market pressure.
+
+<p align="center">
+  <img width="890" height="513" alt="image" src="https://github.com/user-attachments/assets/051deb7b-f5a2-4338-8acb-3129376ea626" />
+</p>
+
+###Brent Crude Prices vs Global Events
+
+This graph connects major geopolitical events with fluctuations in Brent crude oil prices, helping visualize how international developments influenced energy markets.
+
+<p align="center">
+<img width="921" height="512" alt="image" src="https://github.com/user-attachments/assets/45a3dd61-a556-4297-a132-384e326246f1" />
+</p>
+
+###Inflation Risk Heatmap
+
+The heatmap highlights inflation risk levels across different conditions and indicators, providing insight into the broader economic consequences of rising fuel prices.
+
+<p align="center">
+<img width="697" height="695" alt="image" src="https://github.com/user-attachments/assets/4eec9f35-e230-4504-acb0-ca3cc2a6b529" />
+</p>
+
+###Oil Dependency vs Inflation Risk
+
+The scatter visualization examines how higher oil import dependency may correlate with increased inflation risk during periods of geopolitical instability.
+
+<p align="center">
+<img width="778" height="450" alt="image" src="https://github.com/user-attachments/assets/dd1e97d4-4421-498c-9e3c-27167995ef65" />
+</p>
 
 ---
 ## Why This Project Matters
